@@ -1,1 +1,0 @@
-# AccessLens Samples Package
